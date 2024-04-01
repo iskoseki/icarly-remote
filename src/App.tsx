@@ -4,11 +4,7 @@ import SoundPack from "./api/json/soundPack.json";
 import Star from "./assets/Star-1.svg";
 import { useState } from "react";
 import Footer from "./components/Footer";
-interface SoundPackType {
-  id: string;
-  sound: string;
-  image: string;
-}
+
 function App() {
   const [currentSound, setCurrentSound] = useState<HTMLAudioElement | null>(
     null
