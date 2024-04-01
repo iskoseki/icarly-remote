@@ -2,32 +2,32 @@
     {
     "id": 0,
     "name": "Aplausos",
-    "image": "/buttons/applause.svg",
+    "image": "/applause.svg",
     "sound": "/applause-sound-effect.mp3"
 },
 {
     "id": 1,
     "name": "Jo jojo",
-    "image": "/buttons/boo.svg",
+    "image": "/boo.svg",
     "sound": "/jojo-sound-effect.mp3"
 
 },
 {
     "id": 2,
     "name": "Random Dance",
-    "image": "/buttons/randomDance.svg",
+    "image": "/randomDance.svg",
     "sound": "/dance-sound-effect.mp3"
 },
 {
     "id": 3,
     "name": "Risas",
-    "image": "/buttons/soundbytes.svg",
+    "image": "/soundbytes.svg",
     "sound": "/risas-sound-effect.mp3"
 },
 {
     "id": 4,
     "name": "Hannah",
-    "image": "../src/assets/buttons/randomDance.svg",
+    "image": "/randomDance.svg",
     "sound": "/hannah-sound-effect.mp3"
 }
 ]
