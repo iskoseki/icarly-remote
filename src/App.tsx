@@ -26,10 +26,10 @@ function App() {
   };
   return (
     <>
-      <main className="bg-primary rounded-xl z-50 relative ">
+      <main className="bg-primary rounded-xl z-50 relative border-2 drop-shadow-2xl shadow-inner">
         <div className="pb-4">
           <div className="p-8">
-            <img className="" src={Logo} alt="Logotipo" />
+            <img className="logo" src={Logo} alt="Logotipo" />
           </div>
           <section className="grid gap-2 grid-cols-2 w-full p-4">
             <div className="flex justify-center items-center ">
