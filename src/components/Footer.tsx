@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function Footer() {
   return (
     <footer className="  text-gray-600 body-font my-4 -mt-3 bg-slate-50 pt-2 ">
@@ -17,9 +15,9 @@ export default function Footer() {
               <svg
                 fill="none"
                 stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
                 className="w-5 h-5"
                 viewBox="0 0 24 24"
               >
