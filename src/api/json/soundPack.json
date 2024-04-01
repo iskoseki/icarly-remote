@@ -7,19 +7,6 @@
 },
 {
     "id": 1,
-    "name": "Jo jojo",
-    "image": "/boo.svg",
-    "sound": "/jojo-sound-effect.mp3"
-
-},
-{
-    "id": 2,
-    "name": "Random Dance",
-    "image": "/randomDance.svg",
-    "sound": "/dance-sound-effect.mp3"
-},
-{
-    "id": 3,
     "name": "Risas",
     "image": "/soundbytes.svg",
     "sound": "/risas-sound-effect.mp3"
@@ -29,5 +16,34 @@
     "name": "Hannah",
     "image": "/randomDance.svg",
     "sound": "/hannah-sound-effect.mp3"
+},
+
+{
+    "id": 3,
+    "name": "Random Dance",
+    "image": "/randomDance.svg",
+    "sound": "/dance-sound-effect.mp3"
+},
+
+
+{
+    "id": 2,
+    "name": "Jo jojo",
+    "image": "/boo.svg",
+    "sound": "/jojo-sound-effect.mp3"
+
+},
+{
+    "id": 5,
+    "name": "Hoola (Sandra)",
+    "image": "/soundbytes.svg",
+    "sound": "/hoola-sound-effect.mp3"
+},
+{
+    "id": 5,
+    "name": "No e.. u. zorra",
+    "image": "/soundbytes.svg",
+    "sound": "/ya-no-eres-una-zorra-sound-effect.mp3"
 }
+
 ]
